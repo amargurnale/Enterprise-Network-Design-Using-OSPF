@@ -18,7 +18,7 @@ The objective of this project is to strengthen practical networking skills throu
 
 ### 2. OSPF IP Configuration
 
-[![OSPF IP Configure](Screenshots/02_OSPF_IP_Configure.png)](Screenshots/02_OSPF_IP_Configure.png)
+[![OSPF IP Configuration](Screenshots/02_OSPF_IP_Configure.png)](Screenshots/02_OSPF_IP_Configure.png)
 
 ---
 
@@ -28,13 +28,19 @@ The objective of this project is to strengthen practical networking skills throu
 
 ---
 
-### 4. OSPF Configuration
+### 4. OSPF Configuration (Part 1)
+
+[![OSPF Configuration](Screenshots/04_OSPF_Configuration.png)](Screenshots/04_OSPF_Configuration.png)
+
+---
+
+### 5. OSPF Configuration (Part 2)
 
 [![OSPF Configuration](Screenshots/05_OSPF_Configuration.png)](Screenshots/05_OSPF_Configuration.png)
 
 ---
 
-### 5. End-to-End Connectivity Test
+### 6. End-to-End Connectivity Test
 
 [![End-to-End Connectivity](Screenshots/06_End_to_End_Connectivity.png)](Screenshots/06_End_to_End_Connectivity.png)
 
