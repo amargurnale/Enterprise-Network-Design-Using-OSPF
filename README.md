@@ -8,14 +8,35 @@ The objective of this project is to strengthen practical networking skills throu
 
 ---
 
-## Technologies Used
+## 📸 Project Screenshots
 
-- Cisco Packet Tracer
-- Cisco IOS
-- OSPF (Open Shortest Path First)
-- IPv4 Addressing
-- Dynamic Routing
-- Routing & Switching
+### 1. Network Topology
+
+[![Network Topology](Screenshots/01_Topology.png)](Screenshots/01_Topology.png)
+
+---
+
+### 2. OSPF IP Configuration
+
+[![OSPF IP Configuration](Screenshots/02_OSPF_IP_Configure.png)](Screenshots/02_OSPF_IP_Configure.png)
+
+---
+
+### 3. OSPF Neighbor Relationship
+
+[![OSPF Neighbor](Screenshots/03_OSPF_Neighbor.png)](Screenshots/03_OSPF_Neighbor.png)
+
+---
+
+### 4. OSPF Configuration
+
+[![OSPF Configuration](Screenshots/05_OSPF_Configuration.png)](Screenshots/05_OSPF_Configuration.png)
+
+---
+
+### 5. End-to-End Connectivity Test
+
+[![End-to-End Connectivity](Screenshots/06_End_to_End_Connectivity.png)](Screenshots/06_End_to_End_Connectivity.png)
 
 ---
 
@@ -32,11 +53,11 @@ The objective of this project is to strengthen practical networking skills throu
 ## Technologies Used
 
 - Cisco Packet Tracer
-- OSPF
+- OSPF (Open Shortest Path First)
 - IPv4 Addressing
+- Dynamic Routing
 - Routing & Switching
-- Cisco IOS CLI
-
+  
 ---
 
 ## Features
