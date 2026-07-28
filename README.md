@@ -8,6 +8,17 @@ The objective of this project is to strengthen practical networking skills throu
 
 ---
 
+## Technologies Used
+
+- Cisco Packet Tracer
+- Cisco IOS
+- OSPF (Open Shortest Path First)
+- IPv4 Addressing
+- Dynamic Routing
+- Routing & Switching
+
+---
+
 ## Network Topology
 
 - 4 Cisco Routers
