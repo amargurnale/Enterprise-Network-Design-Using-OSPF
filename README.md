@@ -1,4 +1,4 @@
-# Enterprise Network Design using OSPF
+    # Enterprise Network Design using OSPF
 
 ## Overview
 
@@ -18,7 +18,7 @@ The objective of this project is to strengthen practical networking skills throu
 
 ### 2. OSPF IP Configuration
 
-[![OSPF IP Configuration](Screenshots/02_OSPF_IP_Configure.png)](Screenshots/02_OSPF_IP_Configure.png)
+[![OSPF IP Configure](Screenshots/02_OSPF_IP_Configure.png)](Screenshots/02_OSPF_IP_Configure.png)
 
 ---
 
